@@ -1,4 +1,3 @@
-### Adam Basiewicz
 import random
 import heapq
 import matplotlib.pyplot as plt
